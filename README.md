@@ -3,14 +3,14 @@ Associated with Donald Bren School of Information and Computer Sciences at the U
 
 Data sourced from Penn Medicine Radiation Oncology REDCap data.
 
-# Article 1, American Society for Radiation Oncology 
+# 1. American Society for Radiation Oncology 
 Q: What are the stage and outcomes of cervival cancer with or without HIV infection in Botswana 2013-2020? 
 
 "Stage and outcomes of cervical cancer with or without HIV infection in Botswana 2013-2020"
 
 Source: /table_creation/article1
 
-# Article 2, European Society for Radiotherapy and Oncology
+# 2. European Society for Radiotherapy and Oncology
 Q: What are the treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020?
 
 "Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020"
@@ -19,21 +19,21 @@ https://www.estro.org/Congresses/ESTRO-2021/888/gynaecological-endometrium-cervi
 
 Source: /table_creation/article2
 
-# Article 3
+# 3.
 Q: What are the treatment delays of cervical cancer with or without HIV infection in Botswana 2013-2020?
 
 "Treatment delays of cervical cancer with or without human immunodeficiency virus infection in Botswana 2013-2020"
 
 Source: /table_creation/article3
 
-# Article 4, International Gynecologic Cancer Society 
+# 4. International Gynecologic Cancer Society 
 Q: What is the role for Neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical cancer in Botswana?
 
 "Role for Neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical cancer in Botswana"
 
 Source: /table_creation/article4
 
-# Article 5, Infectious Agents and Cancer
+# 5. Infectious Agents and Cancer
 Q: What is the five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with and without HIV infection in Botswana?
 
 "Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with and without HIV infection in Botswana"
